@@ -1,7 +1,7 @@
 /********************************************************************************
 ** Form generated from reading UI file 'mainwindow.ui'
 **
-** Created by: Qt User Interface Compiler version 5.5.1
+** Created by: Qt User Interface Compiler version 5.0.1
 **
 ** WARNING! All changes made in this file will be lost when recompiling UI file!
 ********************************************************************************/
@@ -192,7 +192,7 @@ public:
         frame->setFrameShadow(QFrame::Raised);
         layoutWidget = new QWidget(frame);
         layoutWidget->setObjectName(QStringLiteral("layoutWidget"));
-        layoutWidget->setGeometry(QRect(3, 11, 361, 92));
+        layoutWidget->setGeometry(QRect(0, 10, 361, 92));
         gridLayout = new QGridLayout(layoutWidget);
         gridLayout->setSpacing(6);
         gridLayout->setContentsMargins(11, 11, 11, 11);
